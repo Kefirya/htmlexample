@@ -1,0 +1,55 @@
+body {
+    font-size: 24px;
+}
+p.green {
+    color: green;
+}
+p.red {
+    color: red;
+}
+p.pink {
+color:pink;
+}
+p.blue {
+    color: blue;
+}
+p.bold {
+    font-weight: bold;
+}
+
+li.green {
+    color: green;
+}
+li.red {
+    color: red;
+}
+li.green {
+    color: green;
+}
+li.red {
+    color: red; 
+}
+li.blue {
+    color: blue; 
+}
+li.pink {
+color:pink }
+
+span.xxsmall {
+font-size: 10px; 
+}
+span.xsmall { 
+font-size: 13px; 
+}
+span.medium { 
+font-size: 19px;
+}
+span.large { 
+font-size: 22px; 
+}
+span.xlarge {
+ font-size: 28px;
+}
+span.xxlarge {
+ font-size: 34px; 
+}
